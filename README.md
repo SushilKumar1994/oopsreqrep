@@ -1,7 +1,7 @@
 # oopsreqrep
 
 Problem Description: 
-(Account Inheritance Hierarchy) Create an inheritance hierarchy that a bank might use to represent customers' 
+(Account Inheritance Hierarchy) Create an inheritance hierarchy that a bank might use to represent customers 
 bank accounts.  • All customers at this bank can deposit (i.e., credit) money into their accounts and withdraw (i.e., debit) 
 money from their accounts. •  More specific types of accounts also exist.  • Savings accounts, for instance, earn interest on the money they hold. Checking accounts, for instance, charge 
 a fee per transaction (i.e., credit or debit).  • Current accounts, on other hand, has overdraft(Negative balance) facility to withdraw the money. 
